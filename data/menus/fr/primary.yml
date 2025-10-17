@@ -1,14 +1,14 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
+- title: Recherche
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Équipe
+- title: Enseignement
   target: "/equipe/"
   kind: page
   new_tab: false
