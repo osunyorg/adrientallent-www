@@ -9,7 +9,7 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Publications
-  target: "/organisations/"
+  target: "/publications/"
   kind: page
   new_tab: false
   children: []
