@@ -16,7 +16,7 @@ items:
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: Enseignement
-  target: "/equipe/"
+  target: "/personnes/"
   kind: page
   new_tab: false
   children: []
