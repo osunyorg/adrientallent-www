@@ -2,24 +2,24 @@
 title: Menu principal
 items:
 - title: Recherche
-  target: "/actualites/"
+  target: "/recherche/"
   kind: page
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/pages/recherche"
+  file: content/fr/pages/recherche/_index.html
 - title: Publications
-  target: "/"
+  target: "/publications/"
   kind: page
   new_tab: false
   children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Enseignement
-  target: "/personnes/"
+  path: "/pages/publications"
+  file: content/fr/pages/publications/_index.html
+- title: Enseignements
+  target: "/enseignements/"
   kind: page
   new_tab: false
   children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  path: "/pages/enseignements"
+  file: content/fr/pages/enseignements/_index.html
 
