@@ -9,6 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            adrien.tallent@gmail.com
+          value: >-
+            mailto:adrien.tallent@gmail.com
+      social_networks:
+        linkedin:
+          label: >-
+            adrien-tallent-668a35a1
+          value: >-
+            https://www.linkedin.com/in/adrien-tallent-668a35a1/
 
   taxonomies:
     administrator: administrators
