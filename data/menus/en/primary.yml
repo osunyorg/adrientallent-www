@@ -29,4 +29,11 @@ items:
   children: []
   path: "/pages/enseignements"
   file: content/en/pages/enseignements/_index.html
+- title: CV
+  target: "/en/cv/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/cv"
+  file: content/en/pages/cv/_index.html
 
