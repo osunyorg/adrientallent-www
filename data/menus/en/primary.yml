@@ -2,38 +2,48 @@
 title: Menu principal
 items:
 - title: Home
+  slug: home
   target: "/en/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/en/_index.html
 - title: Research
+  slug: research
   target: "/en/recherche/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/recherche"
   file: content/en/pages/recherche/_index.html
 - title: Publications
+  slug: publications
   target: "/en/publications/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/publications"
   file: content/en/pages/publications/_index.html
 - title: Teaching
+  slug: teaching
   target: "/en/enseignements/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/enseignements"
   file: content/en/pages/enseignements/_index.html
 - title: CV
+  slug: cv
   target: "/en/cv/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/cv"
   file: content/en/pages/cv/_index.html
 
