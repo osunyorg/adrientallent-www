@@ -15,118 +15,118 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/fr/personnes/"
 
 [[redirects]]
-from = "/agenda/2025/"
+from = "/agenda/2025/index.html"
 to = "/fr/agenda/2025/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/agenda/2026/05/"
+from = "/agenda/2026/05/index.html"
 to = "/fr/agenda/2026/05/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/fr/agenda/"
 
 [[redirects]]
-from = "/agenda/2025/seance-1-seminaire-ia-et-democratie-2025-2026/"
+from = "/agenda/2025/seance-1-seminaire-ia-et-democratie-2025-2026/index.html"
 to = "/fr/agenda/2025/seance-1-seminaire-ia-et-democratie-2025-2026/"
 
 [[redirects]]
-from = "/projets/2025-avec-jacques-ellul/"
+from = "/projets/2025-avec-jacques-ellul/index.html"
 to = "/fr/projets/2025-avec-jacques-ellul/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/cv/"
+from = "/cv/index.html"
 to = "/fr/cv/"
 
 [[redirects]]
-from = "/recherche/"
+from = "/recherche/index.html"
 to = "/fr/recherche/"
 
 [[redirects]]
-from = "/agenda/2025/seance-2-seminaire-ia-et-democratie-2025-2026-avec-jean-cattan-conseil-de-lia-et-du-numerique/"
+from = "/agenda/2025/seance-2-seminaire-ia-et-democratie-2025-2026-avec-jean-cattan-conseil-de-lia-et-du-numerique/index.html"
 to = "/fr/agenda/2025/seance-2-seminaire-ia-et-democratie-2025-2026-avec-jean-cattan-conseil-de-lia-et-du-numerique/"
 
 [[redirects]]
-from = "/personnes/"
+from = "/personnes/index.html"
 to = "/fr/personnes/"
 
 [[redirects]]
-from = "/publications/"
+from = "/publications/index.html"
 to = "/fr/publications/"
 
 [[redirects]]
-from = "/expositions/"
+from = "/expositions/index.html"
 to = "/fr/expositions/"
 
 [[redirects]]
-from = "/agenda/2026/06/"
+from = "/agenda/2026/06/index.html"
 to = "/fr/agenda/2026/06/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/personnes/equipe-editoriale/"
+from = "/personnes/equipe-editoriale/index.html"
 to = "/fr/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2026/02/"
+from = "/agenda/2026/02/index.html"
 to = "/fr/agenda/2026/02/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/fr/projets/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/"
+from = "/expositions/archives-expositions/index.html"
 to = "/fr/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/agenda/2026/04/"
+from = "/agenda/2026/04/index.html"
 to = "/fr/agenda/2026/04/"
 
 [[redirects]]
-from = "/projets/2025-lia-aux-frontieres-de-lesprit/"
+from = "/projets/2025-lia-aux-frontieres-de-lesprit/index.html"
 to = "/fr/projets/2025-lia-aux-frontieres-de-lesprit/"
 
 [[redirects]]
-from = "/enseignements/"
+from = "/enseignements/index.html"
 to = "/fr/enseignements/"
 
 [[redirects]]
-from = "/agenda/2026/"
+from = "/agenda/2026/index.html"
 to = "/fr/agenda/2026/"
 
 [[redirects]]
-from = "/agenda/2025/11/"
+from = "/agenda/2025/11/index.html"
 to = "/fr/agenda/2025/11/"
 
