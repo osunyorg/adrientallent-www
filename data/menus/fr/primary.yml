@@ -46,4 +46,13 @@ items:
   descendants_targets: []
   path: "/pages/cv"
   file: content/fr/pages/cv/_index.html
+- title: Médias & policy
+  slug: medias-policy
+  target: "/fr/medias-policy/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/medias-policy"
+  file: content/fr/pages/medias-policy/_index.html
 
