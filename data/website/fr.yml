@@ -1,4 +1,6 @@
 default:
+  shared_image:
+    id: ceee31ec-eb8e-404a-8579-37810043b4a7
 contents_reading_time:
   seconds: 0
   text: >-
